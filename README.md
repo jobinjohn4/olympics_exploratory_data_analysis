@@ -1,4 +1,5 @@
 <h1>Olympics Exploratory Data Analysis</h1>
+https://github.com/jobinjohn4/olympics_exploratory_data_analysis/blob/main/Olympic_exploratory_analysis.ipynb
 <img src="https://i.postimg.cc/nzmFrKY2/flag-Olympic-Games.webp" height="60%" width="80%" />
 <h2>Description</h2>
 The Olympic dataset for exploratory data analysis encompasses comprehensive information on athletes, countries, sports, events, and historical performances across various Olympic Games editions from 1896 to 2016. It includes athlete details like names and ages, country information, sports, event specifics, and medal results. I have utilized this dataset to uncover patterns and trends through visualizations and statistical analyses. Exploring athlete demographics, performance trends, and country-specific achievements enhances our understanding of the dynamic history of the Olympic Games, providing valuable insights into the world of international sports competitions.
